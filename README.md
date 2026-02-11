@@ -14,18 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
-Welcom to my playground, here is my personal footprints about 🔭programming, 🌱learning, 👯collaborate, 🤔help and any other meaningful and inspired things in my life.
+  
+Welcom to my playground, here is my personal footprints about 🔭programming, 🌱thinking, 👯learning, 🤔investing and any other meaningful and inspired things in my life.
 
-- Who am I?
-I'm a software developer.
-Independent Developer 
-- My (personal) North ⭐ :
-make life greet
-- Where am I now
-Life explorer 
-- Achievement
-Contribution to Aibrix
-DevStream Certified Open-Source Contributor 
-- Personal tech blog
-tech.xcentiot.com
+#### Who am I?
+
+- I'm a software developer.
+- Independent Reader 
+
+#### My (personal) North ⭐ :
+ 
+- make life great
+
+#### Where am I now
+
+- Life explorer 
+
+#### Achievement
+
+- [Aibrix](https://github.com/vllm-project/aibrix/issues/1089) to [Aibrix kuberay](https://github.com/vllm-project/aibrix/issues/1094) 
+- Personal side-project
+  - [Tech-Blog](tech.xcentiot.com) 
