@@ -35,5 +35,5 @@ Welcom to my playground, here is my personal footprints about ðŸ”­programming, ð
 - [Aibrix](https://github.com/vllm-project/aibrix/issues/1089) to [Aibrix kuberay](https://github.com/vllm-project/aibrix/issues/1094) 
 - Personal side-project
   - [Tech-Blog](http://tech.xcentiot.com)
-  - [ThingsPanel/vernemq-webhook] (https://github.com/user-attachments/assets/9342d243-8aa7-42d1-a28d-ef972df81430)
+  - [ThingsPanel vernemq-webhook](https://github.com/user-attachments/assets/9342d243-8aa7-42d1-a28d-ef972df81430)
 
